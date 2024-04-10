@@ -1,0 +1,22 @@
+{
+  "name": "fl0wer-discord-bot",
+  "version": "0.0.1",
+  "description": "Developed by Prysma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prysma-Development/Fl0WeR.git"
+  },
+  "author": "Anoeye (mostly)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prysma-Development/Fl0WeR/issues"
+  },
+  "homepage": "https://github.com/Prysma-Development/Fl0WeR#readme",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  }
+}
